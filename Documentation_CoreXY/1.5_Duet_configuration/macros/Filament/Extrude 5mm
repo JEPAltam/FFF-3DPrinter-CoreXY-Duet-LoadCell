@@ -1,0 +1,7 @@
+; Heat and extrude 5mm of filament
+M104 S200       ; Start heating hotend to 200°C (non-blocking)
+M109 S200       ; Wait until hotend reaches 200°C
+G92 E0          ; Reset extruder position to 0
+G1 E5 F300      ; Extrude 5mm of filament at 5 mm/s
+G4 S10          ; Wait 10 seconds (to observe extrusion or allow extra melt time)
+M104 S0         ; Turn off hotend heater for safety

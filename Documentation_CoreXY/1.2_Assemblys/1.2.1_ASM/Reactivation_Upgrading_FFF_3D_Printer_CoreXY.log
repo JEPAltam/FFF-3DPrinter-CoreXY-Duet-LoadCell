@@ -1,0 +1,632 @@
+STEP translation to Solid Edge
+Date: lunes,junio 01,2026 01:13p. m.
+Source File: C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Reactivation_Upgrading_FFF_3D_Printer_CoreXY.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: Intel(R) Xeon(R) W-10855M CPU @ 2.80GHz
+Operating System: Windows 11 Version:25H2 Build:26200 System Type:64-bit
+Installed Memory: 63.64 GB
+
+Software Information
+Parasolid Version: 38.0.150
+PSBodyShop Version: 38.0.111
+Step Adapter Version: 1700.0.0
+Solid Edge Version: 226.00.01.004 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Optimize:Off
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Reactivation_Upgrading_FFF_3D_Printer_CoreXY_0.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Main_frame_0.asm
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Corner_bracket_R.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Motor_mount _bracket_R.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M1.6x10_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Microswitch.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M1.6x10_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Corner_bracket_FR.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z_Motor_mount1.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M1.6x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Pulley_mount _bracket_R.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Corner_bracket_L.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Motor_mount _bracket_L.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame2.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Corner_bracket_FL.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame2.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Pulley_mount _bracket_L.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12_rail_0.asm
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Rail_carriage_block.asm
+|  |  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Body.par
+|  |  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_EndCap.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_EndCap.par
+|  |  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Seal.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Seal.par
+|  |  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Cage.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Cage.par
+|  |  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12H_Ball.par
+|  |  |--+Total Parts: 46
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 46
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\MGN12_linear_rail_450mm.par
+|  |--+Total Parts: 3
+|  |--+Assemblies: 1
+|  |--+Solid Bodies: 2
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Sliding_bushing_R_0.asm
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Linear_slide_bush_R.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Pulley _support_R.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x8_screw.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x8_screw.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x30_screw.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Total Parts: 24
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 24
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Sliding_bushing_L_0.asm
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Linear_slide_bush_L.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Pulley _support_L.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x8_screw.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x8_screw.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x30_screw.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Total Parts: 18
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 18
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Structural_frame1.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Microswitch.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M1.6x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M1.6x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M1.6x10_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x40_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x40_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z_Motor_mount2.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Microswitch.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GTidler16TB3.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Total Parts: 109
+|--+Assemblies: 3
+|--+Solid Bodies: 106
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Nema17.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-mount.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Nema17.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-smooth_rod.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-sliding_bushing_L.asm
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-sliding_bushing_L.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|--+Total Parts: 4
+|--+Assemblies: 0
+|--+Solid Bodies: 4
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-sliding_bushing_R.asm
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-sliding_bushing_R.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ball_sleeve_KH1228.par
+|--+Total Parts: 4
+|--+Assemblies: 0
+|--+Solid Bodies: 4
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-axis_lead_screw.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bowden_tube_Support.asm
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Base_support1.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Base _support2.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bowden_tuble_guide_support.asm
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bowden_tuble_guide_support.par
+|  |--+Total Parts: 2
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 2
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bowden_fitting_support.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x20_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x6_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x6_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x10_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4_nut.par
+|--+Total Parts: 32
+|--+Assemblies: 1
+|--+Solid Bodies: 31
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_bed_mount.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-axis_driver.asm
+Bodies: 0
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\NEMA 23.par
+Bodies: 0
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Flexible_coupling_6mm.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Trapezoidal_lead_screw_10mm.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x8_set_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x8_set_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x8_set_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x8_set_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x60_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x60_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x60_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x60_screw.par
+|--+Total Parts: 14
+|--+Assemblies: 0
+|--+Solid Bodies: 14
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Filament_spool_holder.asm
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Filament_spool_holder_support.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Filament_spool_holder_support.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Spool_holder.par
+|--+Total Parts: 5
+|--+Assemblies: 0
+|--+Solid Bodies: 5
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GT_pulley20TB5.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\2GT_pulley20TB5.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR.asm
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link1.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link2.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Energy_chainR_link.par
+|--+Total Parts: 60
+|--+Assemblies: 0
+|--+Solid Bodies: 60
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Z-Endswitch_trigger.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Belt_lower.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Wire_clip.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Power_supply_anchors.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_bed.asm
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bed_support.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Clamp_centring_bracket.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Clamp_centring_bracket.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Hear_bed.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Clamp_centring_bracket.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Centring_bracket.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Centring_bracket.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Centring_bracket.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_spring_oa_0.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x40_countersunk_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_spring_oa_1.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x40_countersunk_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x40_countersunk_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4_Locknut.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_spring_oa_2.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4_Locknut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4_Locknut.par
+|--+Total Parts: 39
+|--+Assemblies: 0
+|--+Solid Bodies: 39
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Wire_clip.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Wire_clip.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Power_supply_anchors.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Extruder_force_sensor.asm
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\E3DV5.asm
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_skin.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_break.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_block.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Nozzle.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Fitting.par
+|  |--+Total Parts: 10
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 10
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Extruder_mount.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Load_cell_heat_skin_fasteningpar.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Direct_extruder.asm
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Base_idler_pivot_bearing.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Idler_fixing_bearing.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Idler_bearing.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Hobbed_drive_gear_MK8.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bowden_fitting1.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Spring_loaded.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Idler_pivot_bearing.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\NEMA17_0.par
+|  |  |--+Begin Assembly: 4
+|  |  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Extruder_body.asm
+|  |  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Extruder_body.par
+|  |  |--+Total Parts: 2
+|  |  |--+Assemblies: 0
+|  |  |--+Solid Bodies: 2
+|  |  |--+Sheet Bodies: 0
+|  |  |--+End Assembly: 4
+|  |--+Total Parts: 17
+|  |--+Assemblies: 1
+|  |--+Solid Bodies: 16
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x25_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Load_cell_mount.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x40_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Load_cell_75mm.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Fan_support.asm
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Fan4010.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Duct_radial.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ducte_Blower2.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Ducte_Blower1.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\4020TB.par
+|  |  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\4020TB.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\4020TB_Support.par
+|  |--+Total Parts: 15
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 15
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Load_cell_heat_skin_support.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Sensors_support_arm.par
+|  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\X-Endswitch_trigger.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x30_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x30_screw.par
+|  |--+Begin Assembly: 3
+|  |--+Created SE Assembly File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Sensors_module.asm
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Sensors_support.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Arduinonano.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\L15841.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\NRF24l01_antenna.par
+|  |  |--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\HX711.par
+|  |--+Total Parts: 186
+|  |--+Assemblies: 0
+|  |--+Solid Bodies: 186
+|  |--+Sheet Bodies: 0
+|  |--+End Assembly: 3
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_washer.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x25_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x25_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M4x10_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x16_screw.par
+|  |--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Total Parts: 61
+|--+Assemblies: 4
+|--+Solid Bodies: 57
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_bed_support.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x30_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Wire_clip.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Power_supply_anchors.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Belt_upper.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_bed_mount_support.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Duet3D_board.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Duet3D_board_separator.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_bed_mount_support.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Power_supply_24v.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x30_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x30_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M5x12_round-head_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x50_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Leveling_feet_screw.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bed_feet.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bowden_fitting2.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\DC-DC_3A.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Heat_bed_mount.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Wire 1.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3_nut.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Duet3D_board_separator.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Duet3D_board_separator.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Duet3D_board_separator.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Duet3D_board_separator.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Power_supply_anchors.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Wire_clip.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x12_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\M3x5_screw.par
+|--+Reusing File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Wire_clip.par
+|--+Created SE Part File C:\Users\User\OneDrive - UPB\Archivos\Doctorado\Registro\publicaciones\Duet 3D printer\Documentation_CoreXY\1.2_Assemblys\Bowden_tube.par
++Total Parts: 1.117
++Assemblies: 9
++Solid Bodies: 1.108
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 02 : 34

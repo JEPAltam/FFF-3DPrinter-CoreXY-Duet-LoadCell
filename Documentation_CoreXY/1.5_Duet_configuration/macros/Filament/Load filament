@@ -1,0 +1,16 @@
+; --- Load Filament Macro ---
+; Heat hotend to safe loading temperature (adjust as needed)
+M104 S200            ; Set hotend temperature to 200 °C (non-blocking)
+M109 S200            ; Wait for hotend to reach 200 °C
+
+; Prime extruder
+G92 E0               ; Reset extruder position
+G1 E400 F3600        ; Extrude 400 mm of filament at 60 mm/s (to load)
+
+; Disable extruder motor so user can manually push filament
+M84 E0:1 P3          ; Disable extruder 0 and 1 motors after 3 seconds
+
+; Optional: beep or message
+M300                 ; Beep (if supported)
+M291 P"Filament loaded. Press to continue." R"Load Complete" S1 ; Display message
+
