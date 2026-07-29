@@ -10,7 +10,6 @@ This work is submitted for publication in **HardwareX** (Elsevier).
 
 **Authors:** Jhon E. Puerta Altamiranda, Luis M. Aristizabal Gomez, Hader V. Martinez Tejada, Carlos A. Zuluaga
 **Institution:** Universidad Pontificia Bolivariana, School of Engineering, Medellín, Colombia  
-**Funding:** MINCIENCIAS, project No. 106389933103565, Convocatoria 933 of 2023
 
 ---
 
