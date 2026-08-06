@@ -58,8 +58,3 @@ By contributing, you agree your work will be released under the same licenses as
 
 ---
 
-## Contact
-
-**Jhon E. Puerta Altamiranda** — jhon.puerta@upb.edu.co  
-**Hader V. Martinez Tejada** — hader.martinez@upb.edu.co  
-Universidad Pontificia Bolivariana, School of Engineering, Medellín, Colombia
