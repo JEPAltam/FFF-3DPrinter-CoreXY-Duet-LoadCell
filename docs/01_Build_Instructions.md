@@ -1,9 +1,7 @@
 # 01 — Build Instructions
 
-> **Platform:** Reactivation and Upgrading of a Legacy FFF 3D Printer Using an Open-Source Duet Framework with Integrated Load-Cell Extrusion Force Sensing  
-> **Repository:** [FFF-3DPrinter-CoreXY-Duet-LoadCell](https://github.com/JEPAltam/FFF-3DPrinter-CoreXY-Duet-LoadCell)  
-> **Reference article:** HardwareX (submitted 2025)
-
+<img src="Reactivation_Upgrading_FFF_3D_Printer_CoreXY.png" 
+     width="700"/>
 ---
 
 ## Table of Contents
@@ -25,6 +23,9 @@
 ## 1. Reactivation and Upgrading Strategy
 
 The build process follows four sequential stages:
+
+<img src="images/methodology_flowchart.png" 
+     width="700"/>
 
 ```
 System Assessment → Architectural Redesign → Electronics Migration → Commissioning & Validation

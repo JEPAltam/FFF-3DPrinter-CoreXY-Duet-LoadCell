@@ -1,7 +1,5 @@
 # 04 — Future Work
 
-> **Platform:** Reactivation and Upgrading of a Legacy FFF 3D Printer Using an Open-Source Duet Framework with Integrated Load-Cell Extrusion Force Sensing  
-> **Repository:** [FFF-3DPrinter-CoreXY-Duet-LoadCell](https://github.com/JEPAltam/FFF-3DPrinter-CoreXY-Duet-LoadCell)
 
 ---
 
@@ -12,6 +10,7 @@ The reactivated and upgraded FFF 3D printer platform has demonstrated its capabi
 The integrated load-cell module successfully enabled real-time extrusion force sensing, allowing the determination of operational limits for the current hardware configuration and the identification of rheological behavior and material-dependent constraints during filament feeding.
 
 However, in the current version a direct communication link between the Duet Maestro 2 control system and the force data acquisition module was not implemented. This represents the most significant open development opportunity for groups building on this platform.
+
 
 ---
 

@@ -6,9 +6,8 @@
 
 Reactivation and upgrading of a legacy CubeX Duo 3D printer into a fully open-source CoreXY Fused Filament Fabrication (FFF) platform with integrated load-cell extrusion force sensing.
 
-**Authors:** Jhon E. Puerta Altamiranda, Luis M. Aristizabal Gomez, Nicolas R. Ortiz, Carlos A. Zuluaga, Luis F. Lalinde, Hader V. Martinez Tejada  
+**Authors:** Jhon E. Puerta Altamiranda, Luis M. Aristizabal Gomez, Hader V. Martinez Tejada, Carlos A. Zuluaga, Nicolas R. Ortiz, Luis F. Lalinde,  
 **Institution:** Universidad Pontificia Bolivariana, School of Engineering, Medellín, Colombia  
-**Funding:** MINCIENCIAS, project No. 106389933103565, Convocatoria 933 of 2023  
 **Article:** Submitted to HardwareX (Elsevier), 2025
 
 ---
@@ -92,17 +91,26 @@ FFF-3DPrinter-CoreXY-Duet-LoadCell/
 │   └── images/                       # Photos and illustrations
 │
 ├── mechanical/
-│   ├── cad/
-│   │   ├── solide/                   # Native Solid Edge files (.par / .asm)
-│   │   └── step/                     # Neutral STEP files for compatibility
+│   ├── CAD/                          # Native Solid Edge files (.par / .asm
+│   │    ├── 1.1_Parts/
+│   │    │   ├── 1.1.1_Frame/             # Corner brackets, motor mounts, pulley supports, Z-axis parts
+│   │    │   ├── 1.1.2_Print_head/        # Extruder carriage, hotend, cooling ducts, load cell parts
+│   │    │   ├── 1.1.3_Electronic/        # Duet mount, sensor support, wire clips, endstop triggers
+│   │    │   ├── 1.1.4_Motors_pulleys/    # Stepper motors, GT2 pulleys, belts, lead screw, coupling
+│   │    │   ├── 1.1.5_Sliding_rail/      # MGN12H linear guide components
+│   │    │   ├── 1.1.6_Bed/               # Heated bed mount, centring brackets, bed support
+│   │    │   └── 1.1.7_Extruder/          # Extruder body, idler mechanism, Bowden assembly, spool holder
+│   │    └── 1.2_Assemblys/
+│   │        ├── 1.2.1_AMS/               # Full system assembly
+│   │        └── 1.2.2_STEP/              # Full system assembly (.step, cross-platform)                  
 │   ├── drawings/                     # Dimensioned technical drawings (PDF)
 │   └── bom/
 │       └── BOM.xlsx                  # Complete bill of materials
 │
 ├── electronics/
 │   ├── wiring_diagrams/              # Wiring schematic PDFs
-│   └── schematics/                   # KiCad or other source files (if available)
-│
+│   └── schematics/                   # electronics schematics (PDF files or other sources)
+|
 ├── firmware/
 │   ├── duet/
 │   │   └── sys/                      # config.g, bed.g, homeall.g, etc.
@@ -115,7 +123,7 @@ FFF-3DPrinter-CoreXY-Duet-LoadCell/
     │   ├── assembly/
     │   ├── print_head/
     │   └── finished_machine/
-    └── videos/                       # Assembly or test videos (optional)
+    └── videos/                       # Assembly or test videos
 ```
 
 ---
@@ -162,8 +170,8 @@ Reference geometry files for commercial components are included for assembly ref
 If you use this hardware or build upon this work, please cite:
 
 ```
-Puerta Altamiranda, J.E., Aristizabal Gomez, L.M., Ortiz, N.R., Zuluaga, C.A.,
-Lalinde, L.F., Martinez Tejada, H.V. (2025). Reactivation and Upgrading of a
+Puerta Altamiranda, J.E., Aristizabal Gomez, L.M., Martinez Tejada, H.V., Zuluaga, C.A., Ortiz, N.R.,
+Lalinde, L.F. (2025). Reactivation and Upgrading of a
 Legacy FFF 3D Printer Using an Open-Source Duet Framework with Integrated
 Load-Cell Extrusion Force Sensing. HardwareX.
 DOI: [to be assigned upon publication]
@@ -177,8 +185,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to th
 
 ---
 
-## Contact
-
-**Jhon E. Puerta Altamiranda** — jhon.puerta@upb.edu.co  
-**Hader V. Martinez Tejada** — hader.martinez@upb.edu.co  
-Universidad Pontificia Bolivariana, School of Engineering, Medellín, Colombia

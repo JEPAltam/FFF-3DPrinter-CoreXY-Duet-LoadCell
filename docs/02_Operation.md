@@ -1,8 +1,5 @@
 # 02 — Operation Instructions
 
-> **Platform:** Reactivation and Upgrading of a Legacy FFF 3D Printer Using an Open-Source Duet Framework with Integrated Load-Cell Extrusion Force Sensing  
-> **Repository:** [FFF-3DPrinter-CoreXY-Duet-LoadCell](https://github.com/JEPAltam/FFF-3DPrinter-CoreXY-Duet-LoadCell)
-
 ---
 
 ## Table of Contents
