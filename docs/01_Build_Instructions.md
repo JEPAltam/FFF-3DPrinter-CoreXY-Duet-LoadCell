@@ -1,6 +1,6 @@
 # 01 — Build Instructions
 
-<img src="Reactivation_Upgrading_FFF_3D_Printer_CoreXY.png" 
+<img src="Reactivation_Upgrading_FFF_3D_Printer_CoreXY.jpg" 
      width="700"/>
 ---
 
@@ -24,7 +24,7 @@
 
 The build process follows four sequential stages:
 
-<img src="images/methodology_flowchart.png" 
+<img src="images/methodology_flowchart.jpg" 
      width="700"/>
 
 ```
@@ -112,8 +112,8 @@ Parts with self-supporting geometries were printed without supports to reduce ma
 
 ## 4. Assembly
 
-> 📁 All assembly drawings are in `mechanical/drawings/Assembly_drawing.pdf`.  
-> 📁 Full CAD assembly: `mechanical/cad/solide/` (Solid Edge) or `mechanical/cad/step/` (STEP).
+> 📁 All assembly drawings are in `mechanical/drawings/`.  
+> 📁 Full CAD assembly: `mechanical/cad/`.
 
 ### 4.1 Extruder and Load-Cell Module
 
