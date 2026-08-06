@@ -1,6 +1,6 @@
 # 01 — Build Instructions
 
-<img src="Reactivation_Upgrading.jpg" 
+<img src="images/Reactivation_Upgrading.jpg" 
      width="700"/>
 ---
 
