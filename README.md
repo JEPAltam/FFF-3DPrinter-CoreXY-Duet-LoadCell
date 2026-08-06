@@ -17,7 +17,14 @@ Reactivation and upgrading of a legacy CubeX Duo 3D printer into a fully open-so
 
 Rather than constructing a new printer from scratch, this project demonstrates a reproducible methodology for **reactivating legacy FFF devices** using open-source hardware. Reusable components from the original CubeX Duo — including NEMA 17 stepper motors, structural steel tubes, and linear shafts — are retained and integrated into a fully redesigned CoreXY platform controlled by a **Duet Maestro 2** board running RepRapFirmware 3.
 
+<<<<<<< HEAD
 The platform integrates a **bending-beam load cell** directly into the extruder assembly for real-time extrusion force measurement. Force data are transmitted wirelessly via an NRF24L01 module, enabling untethered acquisition during full-range CoreXY motion. This allows characterization of nozzle back-pressure, detection of extruder skip events, and determination of operational feed speed limits.
+=======
+This work is submitted for publication in **HardwareX** (Elsevier).
+
+**Authors:** Jhon E. Puerta Altamiranda, Luis M. Aristizabal Gomez, Hader V. Martinez Tejada, Carlos A. Zuluaga
+**Institution:** Universidad Pontificia Bolivariana, School of Engineering, Medellín, Colombia  
+>>>>>>> 428c6796a2291ff5daa34fbf5682351e8e152b36
 
 ---
 
