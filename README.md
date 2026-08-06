@@ -165,20 +165,6 @@ Reference geometry files for commercial components are included for assembly ref
 
 ---
 
-## Citation
-
-If you use this hardware or build upon this work, please cite:
-
-```
-Puerta Altamiranda, J.E., Aristizabal Gomez, L.M., Martinez Tejada, H.V., Zuluaga, C.A., Ortiz, N.R.,
-Lalinde, L.F. (2025). Reactivation and Upgrading of a
-Legacy FFF 3D Printer Using an Open-Source Duet Framework with Integrated
-Load-Cell Extrusion Force Sensing. HardwareX.
-DOI: [to be assigned upon publication]
-```
-
----
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
