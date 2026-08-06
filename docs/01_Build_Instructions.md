@@ -1,7 +1,7 @@
 # 01 — Build Instructions
 
 <img src="Reactivation_Upgrading_FFF_3D_Printer_CoreXY.jpg" 
-     width="700"/>
+     width="500"/>
 ---
 
 ## Table of Contents
